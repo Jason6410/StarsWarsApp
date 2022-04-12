@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StarsWarsApp</string>
+    <string name="name_planet">Nombre Planeta:</string>
+    <string name="climate_planet">Clima Planeta:</string>
+    <string name="population_planet">Población Planeta:</string>
+    <string name="name_people">Nombre Persona:</string>
+    <string name="height_people">Altura:</string>
+    <string name="gender_people">Género:</string>
+    <string name="hair_color_people">Color de Cabello:</string>
+    <string name="skin_color_people">Color de Piel:</string>
+    <string name="tittle_app">Star Wars App</string>
+</resources>
